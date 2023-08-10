@@ -1,4 +1,4 @@
-### 5.9.4 Home Assginment Hypothesis Testing for Proportion
+### 5.9.4 Hypothesis Testing for Proportion
 
 ## US Health Insurance Dataset [(source)](https://www.kaggle.com/datasets/teertha/ushealthinsurancedataset)
 
